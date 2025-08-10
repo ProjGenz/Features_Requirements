@@ -25,6 +25,10 @@
 12. if user submits, then only he/she can submit the editorial/solution
 
 
+# NFR 
+1. Blogs section in nav => int exp, referrals, etc
+
+
 
 ## UX : 
 1. Question
