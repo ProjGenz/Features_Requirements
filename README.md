@@ -27,6 +27,7 @@
 
 # NFR 
 1. Blogs section in nav => int exp, referrals, etc
+2. 3rd party singup / login
 
 
 
