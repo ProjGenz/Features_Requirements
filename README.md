@@ -23,6 +23,7 @@
 10. Timer + stopwatch + reset functionality
 11. Tags for soltion - by user only (max 3 tags)
 12. if user submits, then only he/she can submit the editorial/solution
+13. if user wants to revise, he can get random question from solved / unsolved question.
 
 
 # NFR 
